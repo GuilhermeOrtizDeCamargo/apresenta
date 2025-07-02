@@ -106,7 +106,7 @@ h3 {
 /* espaço após as fotos */
 .social {
     height: 560px;
-    background-image: url(../apresenta/fotos/cumprimento.jpg);
+    background-image: url(../fotos/cumprimento.jpg);
     background-size: 100%;
     display: flex;
     align-items: center;
